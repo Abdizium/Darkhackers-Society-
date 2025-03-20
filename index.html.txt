@@ -15,7 +15,7 @@
       <nav>
         <ul>
           <li><a href="#">Enter The Darkness </a></li>
-          <li><a href="#">Member Vault </a></li>
+          <li><a href="#">Member Vault Open  </a></li>
           <li><a href="#">Tickets- Capture the flag </a></li>
         </ul>
       </nav>
